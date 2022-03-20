@@ -1,5 +1,5 @@
 # Forecasting-Net-Prophet-With-Time-Series
-Use time series data to find out the ability to predict search traffic can translate into the ability to successfully trade the stock. We will leverage Google Colab and Facebook Prophet to predict search traffic. 
+Use time series data to find out if the ability to predict search traffic can translate into the ability to successfully trade the stock. We will leverage Google Colab and Facebook Prophet to predict search traffic. 
 
 The steps for this project are divided into the following sections:
 
